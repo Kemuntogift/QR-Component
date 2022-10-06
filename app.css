@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background: #D2E8FF;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #D2E8FF;
+}
