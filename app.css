@@ -9,6 +9,9 @@ body {
 }
 
 .container {
+    height: 98vh;
+    width: 98vw;
+    border: solid green;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,9 +20,9 @@ body {
 }
 
 .card {
-    margin-top: 20vh;
+    gap: 10px;
     border-radius: 30px;
-    padding: 5px;
+    padding: 2px;
     width: 20vw;
     height: 60vh;
     display: flex;
@@ -31,8 +34,8 @@ body {
 
 img {
     border-radius: 30px;
-    height: 36vh;
-    width: 36vh;
+    height: 32vh;
+    width: 18vw;
 }
 
 h1,
